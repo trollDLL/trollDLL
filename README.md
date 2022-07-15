@@ -1,8 +1,8 @@
 # Sobre  mim
 - 👋Ola, meu  nome  é  trollDLL
 - 👀  meu gmail pra contato é  luan.dilelli@escola.pr.gov.br
--  👍  eu  estou aprendend  aprogramE
-- 🌱 I’m currently learning ...
+- 👍  eu  estou aprendend  aprogramar
+- 🌱 gostaria de aprender muito
 - 💞 APRENDENDO  JAVASCRIPT E SCRATC
 
 ![](https://img.shields.io/badge/Battle.net-000?style=for-the-badge&logo=battle.net&logoColor=148EFF)
